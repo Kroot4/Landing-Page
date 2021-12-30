@@ -175,7 +175,6 @@ img[src*="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAAA
 
 .footer {
     display: flex;
-    border: solid;
     background-color: #1f2937;
     color: white;
     justify-content: center;
